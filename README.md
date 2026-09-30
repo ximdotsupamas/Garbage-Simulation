@@ -3,12 +3,13 @@ Lab เกมคัดแยกขยะในรูปแบบเกม 3 ม�
 - ระบบ Event โดยเมื่อคะแนนครบตามที่กำหนด จะเกิด Event การสุ่มตำแหน่งของถังขยะขึ้น
 
 # Game Mechanics ระบบเดิม
-![Combat](VDO/Combat.gif)
+![Lab](VDO/Lab.gif)
 
-# Game Mechanics ระบบ Event
+# เพิ่ม ระบบ Event
 
 # Project Overview
 - **My Role:** System Designer / Developer
 - **Engine & Tools:** Unity Engine
 - **Genre & Platform:** PC
 - **Project Status:** Work In Progress
+
