@@ -35,7 +35,7 @@
 
 
 # Core Gameplay Loop
-> ![Gameplay Loop](assets/Pic_Feature/Aim.png)
+> ![Gameplay Loop](asset/Img/Coreloop.png)
 
 **ขั้นตอนการเล่นเบื้องต้น**
 - 1 เลือกพื้นที่
